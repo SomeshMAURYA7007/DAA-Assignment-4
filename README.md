@@ -53,7 +53,7 @@ Key finding in a 2 dimentional sorted matrix
 
 **Test case**
 
-Find max
+
 ```
 Test Case-1
 Enter size of matrix (between 1 to 1000) 4
@@ -93,9 +93,10 @@ Key is present
 ---
 
 ### Theory
-Given an n x n matrix, where every row and column is sorted in increasing order. Given a key, how to decide whether this key is in the matrix.
+Divide and Conquer is an algorithm design paradigm in which we recursively break down a problem into two or more sub-problems of the same or related type, until these subproblems become simple enough to be solved directly.
+The solutions to the sub-problems are then combined to give a solution to the original problem.
+The divide-and-conquer paradigm is often used to find an optimal solution of a problem in which we recursively simplify the problem by decreasing the constraints of a subproblem and selecting / dis-selecting a given subproblem based on some conditions.
 
-In this paper, the problem has been solved by using a divide and conquer approach by dividing a given big problem into 4 smaller subproblems and implementing it recursively using the concept of recursion.
 
 
 ---
