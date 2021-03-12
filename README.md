@@ -115,6 +115,8 @@ The Space complexity of the program is O(n*n) as the matrix size is n*n and the 
 ### References
 
 Introduction to Algorithms (MIT Press) by T H Cormen, C E Leiserson, R L Rivest, and C Stein 
+
 https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+
 https://matlab.mathworks.com/
 
